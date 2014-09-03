@@ -1,0 +1,6 @@
+c:\users\nh\documents\visual studio 2013\Projects\EF\ByRef\ByRef\bin\Debug\ByRef.exe.config
+c:\users\nh\documents\visual studio 2013\Projects\EF\ByRef\ByRef\bin\Debug\ByRef.exe
+c:\users\nh\documents\visual studio 2013\Projects\EF\ByRef\ByRef\bin\Debug\ByRef.pdb
+c:\users\nh\documents\visual studio 2013\Projects\EF\ByRef\ByRef\obj\Debug\ByRef.csprojResolveAssemblyReference.cache
+c:\users\nh\documents\visual studio 2013\Projects\EF\ByRef\ByRef\obj\Debug\ByRef.exe
+c:\users\nh\documents\visual studio 2013\Projects\EF\ByRef\ByRef\obj\Debug\ByRef.pdb
