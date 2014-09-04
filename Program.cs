@@ -13,7 +13,7 @@ namespace ByRef
             int res = 0;
             int x = 12;
             Cuadrado(x, ref res);
-            Console.WriteLine("El cuadrado de {0} es: {1}", x, res);
+            Console.WriteLine("El cuadrado de {0} es {1}", x, res); 
         }
 
         private static void Cuadrado(int x, ref int res)
